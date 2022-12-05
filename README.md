@@ -1,3 +1,3 @@
 # cyber2022
-Repozytorium kodu pokazywanego podczas zajêæ z przedmiotu Sztuczna Inteligencja na studiach podyplomowych Zarz¹dzanie Cyberbezpieczeñstwem
+Repozytorium kodu pokazywanego podczas zajÄ™Ä‡ z przedmiotu Sztuczna Inteligencja na studiach podyplomowych ZarzÄ…dzanie CyberbezpieczeÅ„stwem
 
